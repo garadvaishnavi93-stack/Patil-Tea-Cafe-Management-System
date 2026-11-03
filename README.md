@@ -1,0 +1,2 @@
+# Patil-Tea-Cafe-Management-System
+A Python Flask and SQLite-based Cafe Billing and Management System developed for Patil Tea Cafe. This project helps manage customer billing, calculate total amounts and change, store sales records, track stock, and view business reports through an owner dashboard. It also includes secure owner login and bill search by bill number or date, with a responsive and user-friendly interface.  **Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript.
